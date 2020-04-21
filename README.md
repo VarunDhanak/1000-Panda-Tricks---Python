@@ -1,1 +1,1 @@
-< h1 align = "center>1000-Panda-Tricks---Python<h1>
+<h1 align = "center"> 1000 Panda Tricks in Python <h1>
